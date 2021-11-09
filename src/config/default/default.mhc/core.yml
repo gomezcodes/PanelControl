@@ -1,0 +1,1464 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: core}
+children:
+- type: Symbols
+  children:
+  - type: Integer
+    attributes: {id: ADC_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: String
+    attributes: {id: BSP_PIN_0_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_100_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_100_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G3}
+  - type: String
+    attributes: {id: BSP_PIN_100_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_17_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_17_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B5}
+  - type: String
+    attributes: {id: BSP_PIN_17_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_18_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_18_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G4}
+  - type: String
+    attributes: {id: BSP_PIN_18_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_1_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_1_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R5}
+  - type: String
+    attributes: {id: BSP_PIN_1_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_21_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_21_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R6}
+  - type: String
+    attributes: {id: BSP_PIN_21_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_22_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_22_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G6}
+  - type: String
+    attributes: {id: BSP_PIN_22_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_23_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_23_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B6}
+  - type: String
+    attributes: {id: BSP_PIN_23_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_25_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_25_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R7}
+  - type: String
+    attributes: {id: BSP_PIN_25_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_26_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_26_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G7}
+  - type: String
+    attributes: {id: BSP_PIN_26_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_27_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_27_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B7}
+  - type: String
+    attributes: {id: BSP_PIN_27_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_28_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_28_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R8}
+  - type: String
+    attributes: {id: BSP_PIN_28_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_29_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_29_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G8}
+  - type: String
+    attributes: {id: BSP_PIN_29_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_2_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_32_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_32_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B8}
+  - type: String
+    attributes: {id: BSP_PIN_32_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_3_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_3_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B4}
+  - type: String
+    attributes: {id: BSP_PIN_3_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_3_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_4_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_4_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G5}
+  - type: String
+    attributes: {id: BSP_PIN_4_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_4_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_51_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_51_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R4}
+  - type: String
+    attributes: {id: BSP_PIN_51_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_52_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: U1RX}
+  - type: String
+    attributes: {id: BSP_PIN_53_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: U1TX}
+  - type: String
+    attributes: {id: BSP_PIN_59_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_59_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: LED}
+  - type: String
+    attributes: {id: BSP_PIN_59_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_61_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_61_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: LATCH}
+  - type: String
+    attributes: {id: BSP_PIN_61_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_66_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: SCL1}
+  - type: String
+    attributes: {id: BSP_PIN_67_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: SDA1}
+  - type: String
+    attributes: {id: BSP_PIN_69_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_69_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: ADDR_D}
+  - type: String
+    attributes: {id: BSP_PIN_69_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_6_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_72_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_72_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B3}
+  - type: String
+    attributes: {id: BSP_PIN_72_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_73_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_73_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: ADDR_B}
+  - type: String
+    attributes: {id: BSP_PIN_73_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_78_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_78_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: CLK}
+  - type: String
+    attributes: {id: BSP_PIN_78_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_79_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_79_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: OE}
+  - type: String
+    attributes: {id: BSP_PIN_79_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_7_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_7_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R3}
+  - type: String
+    attributes: {id: BSP_PIN_7_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_7_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_80_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_80_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G2}
+  - type: String
+    attributes: {id: BSP_PIN_80_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_81_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_81_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: ADDR_C}
+  - type: String
+    attributes: {id: BSP_PIN_81_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_84_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_84_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: G1}
+  - type: String
+    attributes: {id: BSP_PIN_84_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_89_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_89_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B2}
+  - type: String
+    attributes: {id: BSP_PIN_89_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_8_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: DIGITAL}
+  - type: String
+    attributes: {id: BSP_PIN_90_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_90_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R2}
+  - type: String
+    attributes: {id: BSP_PIN_90_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_91_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_91_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: B1}
+  - type: String
+    attributes: {id: BSP_PIN_91_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_92_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_92_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: R1}
+  - type: String
+    attributes: {id: BSP_PIN_92_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: String
+    attributes: {id: BSP_PIN_9_DIR}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: Out}
+  - type: String
+    attributes: {id: BSP_PIN_9_FUNCTION_NAME}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: ADDR_A}
+  - type: String
+    attributes: {id: BSP_PIN_9_FUNCTION_TYPE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: GPIO}
+  - type: Integer
+    attributes: {id: CAN1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: CAN2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: CMP1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: CMP2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: KeyValueSet
+    attributes: {id: COMPILER_CHOICE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: CONFIG_CHECON_PFMWS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '2'}
+  - type: String
+    attributes: {id: CONFIG_SYS_CLK_PBCLK_FREQ}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '80000000'}
+  - type: Boolean
+    attributes: {id: CORE_TIMER_INTERRUPT_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core_timer, value: 'true'}
+  - type: Boolean
+    attributes: {id: CORE_TIMER_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: CORE_TIMER_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core_timer, value: CORE_TIMER_InterruptHandler}
+  - type: Boolean
+    attributes: {id: CORE_TIMER_INTERRUPT_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core_timer, value: 'true'}
+  - type: String
+    attributes: {id: CPU_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '80000000'}
+  - type: Integer
+    attributes: {id: CVR_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: ETH_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Boolean
+    attributes: {id: EVIC_0_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: EVIC_0_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: String
+    attributes: {id: EVIC_0_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: CORE_TIMER_InterruptHandler}
+  - type: Boolean
+    attributes: {id: EVIC_24_2_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: EVIC_24_2_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: String
+    attributes: {id: EVIC_24_2_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_1_InterruptHandler}
+  - type: Boolean
+    attributes: {id: EVIC_25_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: EVIC_25_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: String
+    attributes: {id: EVIC_25_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: I2C_1_InterruptHandler}
+  - type: Boolean
+    attributes: {id: EVIC_31_2_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_31_2_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_31_2_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_3_Handler}
+  - type: Boolean
+    attributes: {id: EVIC_32_2_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_32_2_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_32_2_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_2_Handler}
+  - type: Boolean
+    attributes: {id: EVIC_49_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_49_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_49_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_4_Handler}
+  - type: Boolean
+    attributes: {id: EVIC_4_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_4_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_4_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: TIMER_1_Handler}
+  - type: Boolean
+    attributes: {id: EVIC_50_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_50_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_50_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_6_Handler}
+  - type: Boolean
+    attributes: {id: EVIC_51_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: Boolean
+    attributes: {id: EVIC_51_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: EVIC_51_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: UART_5_Handler}
+  - type: Boolean
+    attributes: {id: I2C1_CLOCK_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: i2c1, value: 'true'}
+  - type: Integer
+    attributes: {id: I2C1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '80000000'}
+  - type: Integer
+    attributes: {id: I2C2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: I2C3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: I2C4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: I2C5_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Boolean
+    attributes: {id: I2C_1_INTERRUPT_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: i2c1, value: 'true'}
+  - type: Boolean
+    attributes: {id: I2C_1_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: I2C_1_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: i2c1, value: I2C_1_InterruptHandler}
+  - type: Boolean
+    attributes: {id: I2C_1_INTERRUPT_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: i2c1, value: 'true'}
+  - type: Integer
+    attributes: {id: ICAP1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: ICAP2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: ICAP3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: ICAP4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: ICAP5_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: String
+    attributes: {id: KEIL_STACK_HEAP_SIZE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0x1200'}
+  - type: Integer
+    attributes: {id: OCMP1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: OCMP2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: OCMP3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: OCMP4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: OCMP5_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: PMP_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: RTCC_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: SPI1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: SPI2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: SPI3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: SPI4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: String
+    attributes: {id: SYS_CLK_FREQ}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '80000000'}
+  - type: Hex
+    attributes: {id: SYS_PORT_AD1PCFG}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '477'}
+  - type: Hex
+    attributes: {id: SYS_PORT_A_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '1769'}
+  - type: Hex
+    attributes: {id: SYS_PORT_B_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '477'}
+  - type: Hex
+    attributes: {id: SYS_PORT_C_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '8212'}
+  - type: Hex
+    attributes: {id: SYS_PORT_D_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '12953'}
+  - type: Hex
+    attributes: {id: SYS_PORT_E_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '368'}
+  - type: Hex
+    attributes: {id: SYS_PORT_F_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '8'}
+  - type: Hex
+    attributes: {id: SYS_PORT_G_TRIS}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '32771'}
+  - type: Boolean
+    attributes: {id: TIMER_1_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Integer
+    attributes: {id: TMR1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: TMR2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: TMR3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: TMR4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: TMR5_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Boolean
+    attributes: {id: UART1_CLOCK_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: uart1, value: 'true'}
+  - type: Integer
+    attributes: {id: UART1_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '80000000'}
+  - type: Integer
+    attributes: {id: UART2_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: UART3_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: UART4_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: UART5_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Integer
+    attributes: {id: UART6_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+  - type: Boolean
+    attributes: {id: UART_1_INTERRUPT_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: uart1, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_1_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'false'}
+  - type: String
+    attributes: {id: UART_1_INTERRUPT_HANDLER}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: uart1, value: UART_1_InterruptHandler}
+  - type: Boolean
+    attributes: {id: UART_1_INTERRUPT_HANDLER_LOCK}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: uart1, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_2_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_3_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_4_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_5_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Boolean
+    attributes: {id: UART_6_INTERRUPT_ENABLE_UPDATE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: 'true'}
+  - type: Integer
+    attributes: {id: USB_CLOCK_FREQUENCY}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: core, value: '0'}
+- type: ElementPosition
+  attributes: {x: '240', y: '20', id: core}
